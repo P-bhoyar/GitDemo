@@ -1,0 +1,48 @@
+-------------------------------------------------------------------------------
+Test set: com.jpetstore.cucumber.UserRegistrationRunner
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 16.118 sec <<< FAILURE! - in com.jpetstore.cucumber.UserRegistrationRunner
+As a user, I want to view all the categories(Datatable example)  Time elapsed: 0.226 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step 'I Login to the application with valid test and test' is undefined.
+You can implement this step using the snippet(s) below:
+
+@Given("I Login to the application with valid test and test")
+public void i_login_to_the_application_with_valid_test_and_test() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+ #1(Purchase pets from the store)  Time elapsed: 0.031 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step 'I Login to the application with valid test and test' is undefined.
+You can implement this step using the snippet(s) below:
+
+@Given("I Login to the application with valid test and test")
+public void i_login_to_the_application_with_valid_test_and_test() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+ #2(Purchase pets from the store)  Time elapsed: 0.019 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step 'I Login to the application with valid test and test' is undefined.
+You can implement this step using the snippet(s) below:
+
+@Given("I Login to the application with valid test and test")
+public void i_login_to_the_application_with_valid_test_and_test() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+As user, I want to view the Pet Types(Purchase pets from the store)  Time elapsed: 0.012 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: The step 'I Login to the application with valid test and test' is undefined.
+You can implement this step using the snippet(s) below:
+
+@Given("I Login to the application with valid test and test")
+public void i_login_to_the_application_with_valid_test_and_test() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
