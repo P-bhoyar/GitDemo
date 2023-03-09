@@ -27,6 +27,7 @@ public class UserRegistrationSteps {
 
 		shopper.navigateToLoginPage();
 		shopper.navigateToRegistrationPage();
+		System.out.println("postjira2");
 	}
 
 	// And I add new user information
