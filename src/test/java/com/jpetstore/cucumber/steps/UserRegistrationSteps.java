@@ -44,6 +44,8 @@ public class UserRegistrationSteps {
 		Serenity.setSessionVariable("password").to(password);
 
 		String repeatPassword = password;
+		
+		System.out.println("practice-git-commit");
 
 		shopper.addNewUserInformation(userName, password, repeatPassword);
 	}
