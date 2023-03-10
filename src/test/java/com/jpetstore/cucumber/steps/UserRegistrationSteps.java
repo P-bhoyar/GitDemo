@@ -48,6 +48,15 @@ public class UserRegistrationSteps {
 		System.out.println("practice-git-commit");
 
 		shopper.addNewUserInformation(userName, password, repeatPassword);
+		
+		System.out.println("postjira4");
+		System.out.println("postjira5");
+		System.out.println("postjira6");
+		System.out.println("postjira7");
+		System.out.println("postjira8");
+		System.out.println("postjira9");
+		
+		
 	}
 
 	@Given("^I add account information$")
